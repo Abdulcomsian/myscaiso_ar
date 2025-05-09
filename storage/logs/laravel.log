@@ -1,0 +1,16 @@
+[2025-05-09 14:02:43] local.ERROR: Cannot declare class App\Http\Kernel, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Kernel, because the name is already in use at C:\\xampp\\htdocs\\myscaiso_ar\\app\\Kernel.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-09 14:03:43] local.ERROR: Cannot declare class App\Http\Kernel, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Kernel, because the name is already in use at C:\\xampp\\htdocs\\myscaiso_ar\\app\\Kernel.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-09 14:04:43] local.ERROR: Cannot declare class App\Http\Kernel, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Kernel, because the name is already in use at C:\\xampp\\htdocs\\myscaiso_ar\\app\\Kernel.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-09 14:05:43] local.ERROR: Cannot declare class App\Http\Kernel, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Kernel, because the name is already in use at C:\\xampp\\htdocs\\myscaiso_ar\\app\\Kernel.php:7)
+[stacktrace]
+#0 {main}
+"} 
