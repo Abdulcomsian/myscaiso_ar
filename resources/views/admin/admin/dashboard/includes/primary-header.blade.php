@@ -144,7 +144,7 @@
 									<form>
 
 										<!--begin: Head -->
-										<div class="kt-head kt-head--skin-dark kt-head--fit-x kt-head--fit-b" style="background-image: url(../assets/media/misc/bg-1.jpg)">
+										<div class="kt-head kt-head--skin-dark kt-head--fit-x kt-head--fit-b" style="    background: #105c55 !important;">
 											<h3 class="kt-head__title">
 												User Notifications
 												&nbsp;
@@ -555,7 +555,7 @@
 								<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right dropdown-menu-anim dropdown-menu-top-unround dropdown-menu-xl">
 
 									<!--begin: Head -->
-									<div class="kt-user-card kt-user-card--skin-dark kt-notification-item-padding-x" style="background-image: url(../assets/media/misc/bg-1.jpg)">
+									<div class="kt-user-card kt-user-card--skin-dark kt-notification-item-padding-x" style="    background: #105c55 !important;">
 										<div class="kt-user-card__avatar">
 											<img class="kt-hidden" alt="Pic" src="{{ asset(Auth::user()->user_image) }}" />
 
