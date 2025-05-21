@@ -112,6 +112,6 @@
 <!-- end:: Content -->
 <style>
     .newColor {
-        background: #4580c6 !important;
+        background: #4556a6 !important;
     }
 </style>
