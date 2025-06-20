@@ -21,7 +21,7 @@
     <section class="relative h-screen w-full flex items-center justify-center bg-[conic-gradient(at_top_right,_var(--tw-gradient-stops))] from-[#ccf9df] to-[#d1d6ff]">
         <div class="relative max-w-lg md:mx-auto mx-6 w-full flex flex-col justify-center bg-white rounded-lg p-6">
             <div class="text-start mb-7">
-                <a href="index.html" class="grow block mb-8">
+                <a href="javascript:;" class="grow block mb-8">
                      <img class=" mx-auto" src="{{asset("assets/img/logo2.webp")}}" alt="images"  style="width: 450px">
                 </a>
 
@@ -86,7 +86,7 @@
 										<div class="modal-dialog modal-dialog-scrollable">
 											<div class="modal-content">
 											<div class="modal-header">
-												<h5 class="modal-title" id="exampleModalLabel">الشروط والأحكام الخاصة بشركة </h5>
+												<h5 class="modal-title" id="exampleModalLabel" style="text-align: right">الشروط والأحكام الخاصة بشركة </h5>
 												<a data-dismiss="modal" aria-label="Close">
 													<i class="fa fa-times" aria-hidden="true"></i>
 												</a>
@@ -120,17 +120,11 @@
 													<p>تشكل شروط الخدمة المذكورة أعلاه الاتفاقية الكاملة بين الطرفين وتلغي أي اتفاقيات سابقة أو متزامنة بينك وبين شركة . ولن يكون أي تنازل عن أي شرط في شروط الخدمة ساريًا إلا إذا كان خطيًا وموقعًا من قبل مدير شركة .</p>
 													<h6><strong> التواصل معنا</strong></h6>
 													<p>إذا كانت لديك أسئلة أو تعليقات حول هذه الشروط والأحكام، يرجى التواصل معنا على العنوان التالي:<br>
-														{{-- شركة <br>
-														يو جي 13-5 إيه، مركز المرافق - مناطق رأس الخيمة الاقتصادية (راكز) <br>
-													منطقة الحمرا الصناعية – منطقة حرة ،<br>
-													الإمارات العربية المتحدة --}}
-													
-													شركة ج. م. إنتربرايزس ذ.م.م<br>
-													المكتب 1003، مبنى C34،<br>
-													شارع الرزقي، منطقة الدانة،<br>
-													أبوظبي، الإمارات العربية المتحدة، 22207<br>
-													البريد الإلكتروني: ceo@jmegrp.com
-
+														شركة ج. م. إنتربرايزس ذ.م.م<br>
+														المكتب 1003، مبنى C34،<br>
+														شارع الرزقي، منطقة الدانة،<br>
+														أبوظبي، الإمارات العربية المتحدة، 22207<br>
+														البريد الإلكتروني: ceo@jmegrp.com<br>
 													<!-- <div class="ml-2">
 															<input class="form-check-input agreeInput" type="checkbox" value="" id="TermConditions">
 															<label class="form-check-label" for="TermConditions">
